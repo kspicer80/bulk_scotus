@@ -2,3 +2,5 @@
 .DS_Store
 fully_merged_dataset.json
 subsetted_full_dataset.json
+training_json_file.json
+file_with_cleaned_html.json
