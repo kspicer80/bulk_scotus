@@ -6,3 +6,5 @@ training_json_file.json
 file_with_cleaned_html.json
 glove.840B.300d.txt
 corpus_vectors.txt
+glove.42B.300d.txt
+saved_model
