@@ -53,6 +53,7 @@ disp = ConfusionMatrixDisplay(confusion_matrix=cm,
 disp.plot()
 plt.show()
 '''
+# Let's try a simple Random Forest Classifier
 
 rfc = RandomForestClassifier()
 rfc.fit(X_train, y_train)
