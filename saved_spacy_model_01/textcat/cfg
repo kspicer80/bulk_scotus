@@ -1,0 +1,10 @@
+{
+  "labels":[
+    "1700",
+    "1800",
+    "1900",
+    "2000"
+  ],
+  "threshold":0.5,
+  "positive_label":null
+}
