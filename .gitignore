@@ -10,3 +10,6 @@ glove.42B.300d.txt
 saved_model
 fully_cleaned_txt_file_with_labels.json
 opinion-clusters-2022-08-31.csv
+cleaned_text_file.csv
+cleaned_text_file.json
+training_dataframe.json
